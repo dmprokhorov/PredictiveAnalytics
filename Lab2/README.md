@@ -1,1 +1,1 @@
-При загрузке Jupyter-ноутбука на GitHub произошла какая-то ошибка, он не отображается корректно, поэтому здесь я оставляю ссылку на него в Google Colab (доступ открыт на чтение) - https://colab.research.google.com/drive/1UT1k70K5qZae9mJ4b3Cp46ZwNrNbB6zg?usp=drive_link
+При загрузке Jupyter-ноутбука на GitHub произошла какая-то ошибка, он не отображается корректно, поэтому здесь я оставляю ссылку на него в Google Colab (доступ открыт на чтение) - https://colab.research.google.com/drive/1vWgP-7G7f14cutHA35qL6Lw3oF1G-KhG?usp=drive_link
